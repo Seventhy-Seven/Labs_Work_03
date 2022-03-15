@@ -1,0 +1,3 @@
+C:/Users/79122/Desktop/Руслан/Проекты/C++ (Лабы)/Labs_Work_03/cmake-build-debug/CMakeFiles/Labs_Work.dir
+C:/Users/79122/Desktop/Руслан/Проекты/C++ (Лабы)/Labs_Work_03/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/79122/Desktop/Руслан/Проекты/C++ (Лабы)/Labs_Work_03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
